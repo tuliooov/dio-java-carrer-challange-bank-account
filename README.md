@@ -50,4 +50,4 @@ Você pode [acessar o código fonte do projeto](https://github.com/jurandi1/desa
 
 <h2>Desenvolvedor</h2>
 
-[<img src="https://user-images.githubusercontent.com/105133847/215238362-763c8d76-55d2-4fd0-8b5f-f7080fbc4114.jpg" width=115><br><sub>Jurandi Junior</sub>](https://github.com/jurandi1)
+[<img src="[https://user-images.githubusercontent.com/105133847/215238362-763c8d76-55d2-4fd0-8b5f-f7080fbc4114.jpg]" width=115><br><sub>Marco Túlio Valeriano</sub>](https://github.com/jurandi1)
